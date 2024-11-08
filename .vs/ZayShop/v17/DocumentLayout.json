@@ -1,0 +1,613 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acer\\source\\repos\\ZayShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|c:\\users\\acer\\source\\repos\\zayshop\\zayshop\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|solutionrelative:zayshop\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|c:\\users\\acer\\source\\repos\\zayshop\\zayshop\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|solutionrelative:zayshop\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|c:\\users\\acer\\source\\repos\\zayshop\\zayshop\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|solutionrelative:zayshop\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|c:\\users\\acer\\source\\repos\\zayshop\\zayshop\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|solutionrelative:zayshop\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|c:\\users\\acer\\source\\repos\\zayshop\\zayshop\\areas\\admin\\models\\product\\productupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|solutionrelative:zayshop\\areas\\admin\\models\\product\\productupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|c:\\users\\acer\\source\\repos\\zayshop\\zayshop\\areas\\admin\\models\\category\\categoryupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|solutionrelative:zayshop\\areas\\admin\\models\\category\\categoryupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|c:\\users\\acer\\source\\repos\\zayshop\\zayshop\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|solutionrelative:zayshop\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|c:\\users\\acer\\source\\repos\\zayshop\\zayshop\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|solutionrelative:zayshop\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|c:\\users\\acer\\source\\repos\\zayshop\\zayshop\\areas\\admin\\models\\product\\productcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|solutionrelative:zayshop\\areas\\admin\\models\\product\\productcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|c:\\users\\acer\\source\\repos\\zayshop\\zayshop\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|solutionrelative:zayshop\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|c:\\users\\acer\\source\\repos\\zayshop\\zayshop\\areas\\admin\\models\\product\\productindexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|solutionrelative:zayshop\\areas\\admin\\models\\product\\productindexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|c:\\users\\acer\\source\\repos\\zayshop\\zayshop\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|solutionrelative:zayshop\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|c:\\users\\acer\\source\\repos\\zayshop\\zayshop\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|solutionrelative:zayshop\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|c:\\users\\acer\\source\\repos\\zayshop\\zayshop\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|solutionrelative:zayshop\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|c:\\users\\acer\\source\\repos\\zayshop\\zayshop\\entities\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|solutionrelative:zayshop\\entities\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|c:\\users\\acer\\source\\repos\\zayshop\\zayshop\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|solutionrelative:zayshop\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|c:\\users\\acer\\source\\repos\\zayshop\\zayshop\\areas\\admin\\models\\slider\\sliderupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|solutionrelative:zayshop\\areas\\admin\\models\\slider\\sliderupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|c:\\users\\acer\\source\\repos\\zayshop\\zayshop\\areas\\admin\\models\\slider\\sliderindexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|solutionrelative:zayshop\\areas\\admin\\models\\slider\\sliderindexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|c:\\users\\acer\\source\\repos\\zayshop\\zayshop\\areas\\admin\\models\\slider\\slidercreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|solutionrelative:zayshop\\areas\\admin\\models\\slider\\slidercreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|c:\\users\\acer\\source\\repos\\zayshop\\zayshop\\areas\\admin\\models\\slider\\sliderdetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|solutionrelative:zayshop\\areas\\admin\\models\\slider\\sliderdetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|c:\\users\\acer\\source\\repos\\zayshop\\zayshop\\areas\\admin\\models\\category\\categorycreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|solutionrelative:zayshop\\areas\\admin\\models\\category\\categorycreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|c:\\users\\acer\\source\\repos\\zayshop\\zayshop\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|solutionrelative:zayshop\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|c:\\users\\acer\\source\\repos\\zayshop\\zayshop\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|solutionrelative:zayshop\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|c:\\users\\acer\\source\\repos\\zayshop\\zayshop\\areas\\admin\\models\\category\\categoryindexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|solutionrelative:zayshop\\areas\\admin\\models\\category\\categoryindexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|c:\\users\\acer\\source\\repos\\zayshop\\zayshop\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|solutionrelative:zayshop\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|c:\\users\\acer\\source\\repos\\zayshop\\zayshop\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|solutionrelative:zayshop\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|c:\\users\\acer\\source\\repos\\zayshop\\zayshop\\models\\shop\\shopindexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|solutionrelative:zayshop\\models\\shop\\shopindexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|c:\\users\\acer\\source\\repos\\zayshop\\zayshop\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|solutionrelative:zayshop\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|c:\\users\\acer\\source\\repos\\zayshop\\zayshop\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|solutionrelative:zayshop\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|c:\\users\\acer\\source\\repos\\zayshop\\zayshop\\areas\\admin\\views\\slider\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|solutionrelative:zayshop\\areas\\admin\\views\\slider\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|c:\\users\\acer\\source\\repos\\zayshop\\zayshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|solutionrelative:zayshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|c:\\users\\acer\\source\\repos\\zayshop\\zayshop\\areas\\admin\\views\\slider\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|solutionrelative:zayshop\\areas\\admin\\views\\slider\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|c:\\users\\acer\\source\\repos\\zayshop\\zayshop\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|solutionrelative:zayshop\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|c:\\users\\acer\\source\\repos\\zayshop\\zayshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|solutionrelative:zayshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|c:\\users\\acer\\source\\repos\\zayshop\\zayshop\\models\\slider\\sliderindexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|solutionrelative:zayshop\\models\\slider\\sliderindexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|c:\\users\\acer\\source\\repos\\zayshop\\zayshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|solutionrelative:zayshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|c:\\users\\acer\\source\\repos\\zayshop\\zayshop\\migrations\\20241108091443_entitiesadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{976BCF76-D9B1-437A-B825-F93ADF55C9F1}|ZayShop\\ZayShop.csproj|solutionrelative:zayshop\\migrations\\20241108091443_entitiesadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "ZayShop\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "ZayShop\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T10:22:53.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ZayShop\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ZayShop\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAHoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:35:37.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "ZayShop\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "ZayShop\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T07:56:21.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryUpdateVM.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Areas\\Admin\\Models\\Category\\CategoryUpdateVM.cs",
+              "RelativeDocumentMoniker": "ZayShop\\Areas\\Admin\\Models\\Category\\CategoryUpdateVM.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Areas\\Admin\\Models\\Category\\CategoryUpdateVM.cs",
+              "RelativeToolTip": "ZayShop\\Areas\\Admin\\Models\\Category\\CategoryUpdateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T07:35:51.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductUpdateVM.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Areas\\Admin\\Models\\Product\\ProductUpdateVM.cs",
+              "RelativeDocumentMoniker": "ZayShop\\Areas\\Admin\\Models\\Product\\ProductUpdateVM.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Areas\\Admin\\Models\\Product\\ProductUpdateVM.cs",
+              "RelativeToolTip": "ZayShop\\Areas\\Admin\\Models\\Product\\ProductUpdateVM.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:44:54.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ZayShop\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ZayShop\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T10:18:45.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "ZayShop\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "ZayShop\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T07:40:38.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "ZayShop\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "ZayShop\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAAFMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T06:52:57.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Areas\\Admin\\Models\\Product\\ProductCreateVM.cs",
+              "RelativeDocumentMoniker": "ZayShop\\Areas\\Admin\\Models\\Product\\ProductCreateVM.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Areas\\Admin\\Models\\Product\\ProductCreateVM.cs",
+              "RelativeToolTip": "ZayShop\\Areas\\Admin\\Models\\Product\\ProductCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:44:36.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductIndexVM.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Areas\\Admin\\Models\\Product\\ProductIndexVM.cs",
+              "RelativeDocumentMoniker": "ZayShop\\Areas\\Admin\\Models\\Product\\ProductIndexVM.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Areas\\Admin\\Models\\Product\\ProductIndexVM.cs",
+              "RelativeToolTip": "ZayShop\\Areas\\Admin\\Models\\Product\\ProductIndexVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:39:19.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "ZayShop\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "ZayShop\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAuwHQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T10:17:19.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "ZayShop\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "ZayShop\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T07:06:10.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ZayShop\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Entities\\Product.cs",
+              "RelativeToolTip": "ZayShop\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T06:34:28.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "ZayShop\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Entities\\Category.cs",
+              "RelativeToolTip": "ZayShop\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T08:48:10.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Entities\\Slider.cs",
+              "RelativeDocumentMoniker": "ZayShop\\Entities\\Slider.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Entities\\Slider.cs",
+              "RelativeToolTip": "ZayShop\\Entities\\Slider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T08:42:35.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "RelativeDocumentMoniker": "ZayShop\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "RelativeToolTip": "ZayShop\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T15:04:25.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SliderUpdateVM.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Areas\\Admin\\Models\\Slider\\SliderUpdateVM.cs",
+              "RelativeDocumentMoniker": "ZayShop\\Areas\\Admin\\Models\\Slider\\SliderUpdateVM.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Areas\\Admin\\Models\\Slider\\SliderUpdateVM.cs",
+              "RelativeToolTip": "ZayShop\\Areas\\Admin\\Models\\Slider\\SliderUpdateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T16:01:06.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SliderIndexVM.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Areas\\Admin\\Models\\Slider\\SliderIndexVM.cs",
+              "RelativeDocumentMoniker": "ZayShop\\Areas\\Admin\\Models\\Slider\\SliderIndexVM.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Areas\\Admin\\Models\\Slider\\SliderIndexVM.cs",
+              "RelativeToolTip": "ZayShop\\Areas\\Admin\\Models\\Slider\\SliderIndexVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T10:17:56.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SliderCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Areas\\Admin\\Models\\Slider\\SliderCreateVM.cs",
+              "RelativeDocumentMoniker": "ZayShop\\Areas\\Admin\\Models\\Slider\\SliderCreateVM.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Areas\\Admin\\Models\\Slider\\SliderCreateVM.cs",
+              "RelativeToolTip": "ZayShop\\Areas\\Admin\\Models\\Slider\\SliderCreateVM.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T14:59:05.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SliderDetailVM.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Areas\\Admin\\Models\\Slider\\SliderDetailVM.cs",
+              "RelativeDocumentMoniker": "ZayShop\\Areas\\Admin\\Models\\Slider\\SliderDetailVM.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Areas\\Admin\\Models\\Slider\\SliderDetailVM.cs",
+              "RelativeToolTip": "ZayShop\\Areas\\Admin\\Models\\Slider\\SliderDetailVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T06:47:33.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20241108091443_EntitiesAdded.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Migrations\\20241108091443_EntitiesAdded.cs",
+              "RelativeDocumentMoniker": "ZayShop\\Migrations\\20241108091443_EntitiesAdded.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Migrations\\20241108091443_EntitiesAdded.cs",
+              "RelativeToolTip": "ZayShop\\Migrations\\20241108091443_EntitiesAdded.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:14:43.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CategoryCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Areas\\Admin\\Models\\Category\\CategoryCreateVM.cs",
+              "RelativeDocumentMoniker": "ZayShop\\Areas\\Admin\\Models\\Category\\CategoryCreateVM.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Areas\\Admin\\Models\\Category\\CategoryCreateVM.cs",
+              "RelativeToolTip": "ZayShop\\Areas\\Admin\\Models\\Category\\CategoryCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T07:07:16.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "ZayShop\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "ZayShop\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T16:17:36.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ZayShop\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ZayShop\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T07:02:48.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CategoryIndexVM.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Areas\\Admin\\Models\\Category\\CategoryIndexVM.cs",
+              "RelativeDocumentMoniker": "ZayShop\\Areas\\Admin\\Models\\Category\\CategoryIndexVM.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Areas\\Admin\\Models\\Category\\CategoryIndexVM.cs",
+              "RelativeToolTip": "ZayShop\\Areas\\Admin\\Models\\Category\\CategoryIndexVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T06:46:53.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "ZayShop\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "ZayShop\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAFcAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T07:21:47.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "ZayShop\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "ZayShop\\Controllers\\ShopController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:18:45.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ShopIndexVM.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Models\\Shop\\ShopIndexVM.cs",
+              "RelativeDocumentMoniker": "ZayShop\\Models\\Shop\\ShopIndexVM.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Models\\Shop\\ShopIndexVM.cs",
+              "RelativeToolTip": "ZayShop\\Models\\Shop\\ShopIndexVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:19:50.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "RelativeDocumentMoniker": "ZayShop\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "RelativeToolTip": "ZayShop\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T10:18:17.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Areas\\Admin\\Views\\Slider\\Detail.cshtml",
+              "RelativeDocumentMoniker": "ZayShop\\Areas\\Admin\\Views\\Slider\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Areas\\Admin\\Views\\Slider\\Detail.cshtml",
+              "RelativeToolTip": "ZayShop\\Areas\\Admin\\Views\\Slider\\Detail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T06:36:58.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ZayShop\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ZayShop\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T08:59:25.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ZayShop\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ZayShop\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T08:47:59.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
+              "RelativeDocumentMoniker": "ZayShop\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
+              "RelativeToolTip": "ZayShop\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T16:00:13.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "RelativeDocumentMoniker": "ZayShop\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "RelativeToolTip": "ZayShop\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T07:48:27.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SliderIndexVM.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Models\\Slider\\SliderIndexVM.cs",
+              "RelativeDocumentMoniker": "ZayShop\\Models\\Slider\\SliderIndexVM.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Models\\Slider\\SliderIndexVM.cs",
+              "RelativeToolTip": "ZayShop\\Models\\Slider\\SliderIndexVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T08:38:42.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ZayShop\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ZayShop\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T08:27:31.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Program.cs",
+              "RelativeDocumentMoniker": "ZayShop\\Program.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\ZayShop\\ZayShop\\Program.cs",
+              "RelativeToolTip": "ZayShop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T06:54:41.812Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

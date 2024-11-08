@@ -1,0 +1,35 @@
+﻿@using ZayShop.Areas.Admin.Models.Category
+@model CategoryIndexVM
+
+<!-- Page Heading -->
+<div class="d-sm-flex align-items-center justify-content-between mb-4">
+    <h1 class="h3 mb-0 text-gray-800">Categories</h1>
+    <a class="btn btn-success" asp-action="create" asp-controller="category">Create</a>
+</div>
+
+<table class="table table-light">
+    <thead>
+        <tr>
+            <th scope="col">Name</th>
+            <th scope="col">Created at</th>
+            <th scope="col">Modified at</th>
+            <th scope="col" class="text-center">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var Category in Model.Categories)
+        {
+            <tr>
+                <td>@Category.Name</td>
+                <td>@Category.CreatedAt.ToString("dd/MM/yyyy HH:mm")</td>
+                <td>@Category.UpdatedAt?.ToString("dd/MM/yyyy HH:mm")</td>
+                <td class="text-center d-flex justify-content-center">
+                    <a class="btn btn-primary mx-2" asp-action="update" asp-controller="category" asp-route-id="@Category.Id">Update</a>
+                    <form method="post" asp-action="delete" asp-controller="category" asp-route-id="@Category.Id">
+                        <button type="submit" class="btn btn-danger">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
