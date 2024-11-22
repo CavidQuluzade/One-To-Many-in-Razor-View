@@ -24,7 +24,7 @@
             <tr>
                 <td>@product.Name</td>
                 <td>@product.Price</td>
-                <td><img height="50px" width="100px" src="@product.Image" alt="Alternate Text" /></td>
+                <td><img height="50px" width="100px" src="~/assets/img/@product.ImageName" alt="Alternate Text" /></td>
                 <td>@product.CreatedAt.ToString("dd/MM/yyyy HH:mm")</td>
                 <td>@product.UpdatedAt?.ToString("dd/MM/yyyy HH:mm")</td>
                 <td class="text-center d-flex justify-content-center">

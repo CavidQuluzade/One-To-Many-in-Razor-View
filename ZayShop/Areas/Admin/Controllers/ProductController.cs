@@ -4,6 +4,7 @@ using ZayShop.Areas.Admin.Models.Category;
 using ZayShop.Areas.Admin.Models.Product;
 using ZayShop.Data;
 using ZayShop.Entities;
+using ZayShop.Utilities.File;
 
 namespace ZayShop.Areas.Admin.Controllers
 {
@@ -11,9 +12,12 @@ namespace ZayShop.Areas.Admin.Controllers
     public class ProductController : Controller
     {
         private readonly AppDbContext _context;
-        public ProductController(AppDbContext context)
+        private readonly IFileService _fileService;
+
+        public ProductController(AppDbContext context, IFileService fileService)
         {
             _context = context;
+            _fileService = fileService;
         }
         [HttpGet]
         public IActionResult Index()
@@ -56,12 +60,18 @@ namespace ZayShop.Areas.Admin.Controllers
                 ModelState.AddModelError("CategoryId", "This category doesn't exist");
                 return View();
             }
+            if (!_fileService.isImage(productModel.Image.ContentType))
+                ModelState.AddModelError("Image", "Format of file must be image");
+            if (!_fileService.isValidSize(productModel.Image.Length))
+                ModelState.AddModelError("Image", "Size of image is to big. Size must be less than 100KB");
+
+            var imageName = _fileService.Upload(productModel.Image, "assets/img");
 
             product = new Product
             {
                 CreatedAt = DateTime.Now,
                 Name = productModel.Name,
-                Image = productModel.Image,
+                ImageName = imageName,
                 Price = productModel.Price,
                 CategoryId = productModel.CategoryId
             };
@@ -80,6 +90,7 @@ namespace ZayShop.Areas.Admin.Controllers
 
             _context.Products.Remove(product);
             _context.SaveChanges();
+            _fileService.Delete("assets/img", product.ImageName);
 
             return RedirectToAction(nameof(Index));
         }
@@ -91,7 +102,7 @@ namespace ZayShop.Areas.Admin.Controllers
             var productModel = new ProductUpdateVM
             {
                 Name = product.Name,
-                Image = product.Image,
+                ImageName= product.ImageName,
                 Price = product.Price,
                 Categories = _context.Categories.Select(c => new SelectListItem
                 {
@@ -104,7 +115,7 @@ namespace ZayShop.Areas.Admin.Controllers
         [HttpPost]
         public IActionResult Update(ProductUpdateVM productModel, int id)
         {
-            if (!ModelState.IsValid) return View();
+            if (!ModelState.IsValid) return View(productModel);
             var product = _context.Products.Find(id);
             if (product is null) return NotFound();
             var existProduct = _context.Products.Any(c => c.Name.ToLower() == productModel.Name.ToLower() && c.Id != id);
@@ -119,7 +130,15 @@ namespace ZayShop.Areas.Admin.Controllers
             product.Name = productModel.Name;
             product.Price = productModel.Price;
             product.CategoryId = productModel.CategoryId;
-            product.Image = productModel.Image;
+            if (productModel.Image is not null)
+            {
+                if (!_fileService.isImage(productModel.Image.ContentType))
+                    ModelState.AddModelError("Image", "Format of file must be image");
+                if (!_fileService.isValidSize(productModel.Image.Length))
+                    ModelState.AddModelError("Image", "Size of image is to big. Size must be less than 100KB");
+                _fileService.Delete("assets/img", product.ImageName);
+                product.ImageName = _fileService.Upload(productModel.Image, "assets/img");
+            }
             product.UpdatedAt = DateTime.Now;
 
             _context.Products.Update(product);

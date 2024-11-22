@@ -1,7 +1,7 @@
 ﻿﻿@using ZayShop.Areas.Admin.Models.Product
 @model ProductCreateVM
 
-<form method="post" asp-action="create" asp-controller="product">
+<form enctype="multipart/form-data" method="post" asp-action="create" asp-controller="product">
     <div class="form-group">
         <label asp-for="Name"></label>
         <input asp-for="Name" class="form-control" placeholder="Enter name" />

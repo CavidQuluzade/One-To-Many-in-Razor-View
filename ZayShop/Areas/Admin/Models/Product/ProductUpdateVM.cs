@@ -11,9 +11,8 @@ namespace ZayShop.Areas.Admin.Models.Product
 
         [Required(ErrorMessage = "Price required")]
         public decimal Price { get; set; }
-
-        [Required(ErrorMessage = "Image required")]
-        public string Image { get; set; }
+        public string? ImageName { get; set; }
+        public IFormFile? Image { get; set; }
 
         [Required]
         [Display(Name = "Work Category")]

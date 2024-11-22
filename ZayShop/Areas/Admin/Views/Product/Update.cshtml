@@ -1,7 +1,7 @@
 ﻿﻿@using ZayShop.Areas.Admin.Models.Product
 @model ProductUpdateVM
 
-<form method="post" asp-action="update" asp-controller="product">
+<form enctype="multipart/form-data" method="post" asp-action="update" asp-controller="product">
     <div class="form-group">
         <label asp-for="Name"></label>
         <input asp-for="Name" class="form-control" placeholder="Enter name" />
@@ -12,7 +12,8 @@
         <span asp-validation-for="Price" class="text-danger"></span>
         <br />
         <label class="mt-3" asp-for="Image"></label>
-        <input asp-for="Image" class="form-control" placeholder="Enter image address" />
+        <img src="~/assets/img/@Model.ImageName"/>
+        <input asp-for="Image" class="form-control" placeholder="Select Image" />
         <span asp-validation-for="Image" class="text-danger"></span>
         <br />
         <label class="mt-3" asp-for="CategoryId"></label>

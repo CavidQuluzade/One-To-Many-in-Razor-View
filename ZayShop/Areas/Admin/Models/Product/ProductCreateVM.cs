@@ -13,7 +13,7 @@ namespace ZayShop.Areas.Admin.Models.Product
         public decimal Price { get; set; }
 
         [Required(ErrorMessage = "Image required")]
-        public string Image { get; set; }
+        public IFormFile Image { get; set; }
 
         [Required]
         [Display(Name = "Work Category")]
