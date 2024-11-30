@@ -1,0 +1,8 @@
+﻿@using ZayShop.Entities
+@model List<Category>
+<li><a categoryId ="0" class="category text-decoration-none">All</a></li>
+@foreach (var category in Model)
+{
+    <li><a categoryId="@category.Id"  class="category text-decoration-none" href="#">@category.Name</a></li>
+
+}

@@ -7365,6 +7365,10 @@
       "PackagePath": "staticwebassets\\assets\\css\\templatemo.min.css"
     },
     {
+      "Id": "C:\\Code Academy\\Code Academy MVC\\ZayShop\\ZayShop\\wwwroot\\assets\\img\\20643193-c4a4-443b-9a8a-d3c439e1c6d2_shop_01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\20643193-c4a4-443b-9a8a-d3c439e1c6d2_shop_01.jpg"
+    },
+    {
       "Id": "C:\\Code Academy\\Code Academy MVC\\ZayShop\\ZayShop\\wwwroot\\assets\\img\\about-hero.svg",
       "PackagePath": "staticwebassets\\assets\\img\\about-hero.svg"
     },
@@ -7375,6 +7379,10 @@
     {
       "Id": "C:\\Code Academy\\Code Academy MVC\\ZayShop\\ZayShop\\wwwroot\\assets\\img\\apple-icon.png",
       "PackagePath": "staticwebassets\\assets\\img\\apple-icon.png"
+    },
+    {
+      "Id": "C:\\Code Academy\\Code Academy MVC\\ZayShop\\ZayShop\\wwwroot\\assets\\img\\b5ffac6d-4b24-42d6-a9cb-0f39da82d74f_shop_02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\b5ffac6d-4b24-42d6-a9cb-0f39da82d74f_shop_02.jpg"
     },
     {
       "Id": "C:\\Code Academy\\Code Academy MVC\\ZayShop\\ZayShop\\wwwroot\\assets\\img\\banner_img_01.jpg",
@@ -7507,6 +7515,10 @@
     {
       "Id": "C:\\Code Academy\\Code Academy MVC\\ZayShop\\ZayShop\\wwwroot\\assets\\img\\shop_11.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\shop_11.jpg"
+    },
+    {
+      "Id": "C:\\Code Academy\\Code Academy MVC\\ZayShop\\ZayShop\\wwwroot\\assets\\js\\Shop.js",
+      "PackagePath": "staticwebassets\\assets\\js\\Shop.js"
     },
     {
       "Id": "C:\\Code Academy\\Code Academy MVC\\ZayShop\\ZayShop\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",

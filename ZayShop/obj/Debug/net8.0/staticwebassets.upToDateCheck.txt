@@ -1839,9 +1839,11 @@ wwwroot\assets\css\slick-theme.css
 wwwroot\assets\css\slick-theme.min.css
 wwwroot\assets\css\templatemo.css
 wwwroot\assets\css\templatemo.min.css
+wwwroot\assets\img\20643193-c4a4-443b-9a8a-d3c439e1c6d2_shop_01.jpg
 wwwroot\assets\img\about-hero.svg
 wwwroot\assets\img\ajax-loader.gif
 wwwroot\assets\img\apple-icon.png
+wwwroot\assets\img\b5ffac6d-4b24-42d6-a9cb-0f39da82d74f_shop_02.jpg
 wwwroot\assets\img\banner_img_01.jpg
 wwwroot\assets\img\banner_img_02.jpg
 wwwroot\assets\img\banner_img_03.jpg
@@ -1879,6 +1881,7 @@ wwwroot\assets\js\bootstrap.bundle.min.js
 wwwroot\assets\js\custom.js
 wwwroot\assets\js\jquery-1.11.0.min.js
 wwwroot\assets\js\jquery-migrate-1.2.1.min.js
+wwwroot\assets\js\Shop.js
 wwwroot\assets\js\slick.min.js
 wwwroot\assets\js\templatemo.js
 wwwroot\assets\js\templatemo.min.js

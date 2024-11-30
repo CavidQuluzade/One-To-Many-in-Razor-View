@@ -1,0 +1,21 @@
+﻿@using ZayShop.Entities
+@model List<Brand>
+@foreach (var brand in Model)
+{
+    <div class="carousel-item active">
+        <div class="row">
+            <div class="col-3 p-md-5">
+                <a href="#"><img class="img-fluid brand-img" src="~/@brand.PhotoPath1" alt="Brand Logo"></a>
+            </div>
+            <div class="col-3 p-md-5">
+                <a href="#"><img class="img-fluid brand-img" src="~/@brand.PhotoPath2" alt="Brand Logo"></a>
+            </div>
+            <div class="col-3 p-md-5">
+                <a href="#"><img class="img-fluid brand-img" src="~/@brand.PhotoPath3" alt="Brand Logo"></a>
+            </div>
+            <div class="col-3 p-md-5">
+                <a href="#"><img class="img-fluid brand-img" src="~/@brand.PhotoPath4" alt="Brand Logo"></a>
+            </div>
+        </div>
+    </div>
+}
